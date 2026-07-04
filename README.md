@@ -20,4 +20,4 @@ Eklenti yüklendiğinde `LabAPI-beta/configs/ProjectMER` dizinini oluşturacakt�
 # Emeği Geçenler
 - Eklentiyi geliştiren: [Michal78900](https://github.com/Michal78900)
 - Eklentiyi Türkçe yapıp geliştiren: Souin
-- Eklenti test edenler: Souin 
+- Eklentiyi test edenler: Souin 
