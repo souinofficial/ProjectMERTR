@@ -1,7 +1,7 @@
 
 [![MapEditorReborn](https://i.imgur.com/CeemJnt.png)](https://discord.gg/JwAfeSd79u)
 
-<h1 align="center">MapEditorReborn (LabAPI Sürümü)</h1>
+<h1 align="center">MapEditorReborn (LabAPI ve Exiled Sürümü)</h1>
 <h3 align="center">Çeşitli nesneleri oluşturup düzenlemenizi sağlayan bir <a href="https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/">SCP: Secret Laboratory</a> eklentisidir.</h3>
 <div align="center">
     
@@ -19,3 +19,5 @@ Eklenti yüklendiğinde `LabAPI-beta/configs/ProjectMER` dizinini oluşturacakt�
 
 # Emeği Geçenler
 - Eklentiyi geliştiren: [Michal78900](https://github.com/Michal78900)
+- Eklentiyi Türkçe yapıp geliştiren: Souin
+- Eklenti test edenler: Souin 
