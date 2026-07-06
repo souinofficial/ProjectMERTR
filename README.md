@@ -18,5 +18,8 @@ Eklenti yüklendiğinde `EXILED/Configs/ProjectMER` dizinini oluşturacaktır. B
 
 **Daha fazla destek için [Discord](https://discord.gg/2RjtJ7SJzr) sunucumuzu ziyaret edebilirsiniz.**
 
+# Wiki
+**Wiki:**
+
 # Emeği Geçenler
 - Eklentiyi geliştiren: [Michal78900](https://github.com/Michal78900)
