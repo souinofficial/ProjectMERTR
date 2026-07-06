@@ -16,6 +16,7 @@ Eklenti yüklendiğinde `LabAPI-beta/configs/ProjectMER` dizinini oluşturacakt�
 **[Detaylı MER Eğitim Kılavuzu](https://docs.google.com/document/d/10V2PnqobeBFb2xTFIHSGmM2KK9_h2wethiVQdcjyhGc/edit?usp=sharing)**
 
 **Daha fazla destek için [Discord](https://discord.gg/ynt3GXKpY) sunucumuzu ziyaret edebilirsiniz.**
+# Wiki
 
 # Emeği Geçenler
 - Eklentiyi geliştiren: [Michal78900](https://github.com/Michal78900)
