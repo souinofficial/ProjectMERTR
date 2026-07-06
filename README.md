@@ -17,7 +17,7 @@ Eklenti yüklendiğinde `LabAPI-beta/configs/ProjectMER` dizinini oluşturacakt�
 
 **Daha fazla destek için [Discord](https://discord.gg/ynt3GXKpY) sunucumuzu ziyaret edebilirsiniz.**
 # Wiki
-** Wiki ** :
+**Wiki** :
 
 # Emeği Geçenler
 - Eklentiyi geliştiren: [Michal78900](https://github.com/Michal78900)
